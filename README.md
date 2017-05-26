@@ -1,2 +1,2 @@
-# AmandaNevesArt.github.io
+# http://AmandaNevesArt.github.io
 My Personal Website
